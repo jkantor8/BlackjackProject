@@ -16,11 +16,15 @@ public enum Rank {
 	ACE(11);
 	
 	private int value;
-	
+	private String politeName;
 	private Rank(int num) {
 		value = num;
 		
 	}
+//	private Rank(int num, String name) {
+//		value = num;
+//		politeName = name;
+//	}
 	
 	public int getValue() {
 		return value;
