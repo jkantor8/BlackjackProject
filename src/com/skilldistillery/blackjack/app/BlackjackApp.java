@@ -47,7 +47,7 @@ public class BlackjackApp {
 	private void playerTurn() {
 		dealer.showOneCard();
 		while (player.getHandValue() < 21) {
-			System.out.println("Player's cards: " + player.getHandValue() + player.getHand());
+			System.out.println("Player's cards: " + player.getHandValue() + " " + player.getHand());
 			System.out.println("Would you like to hit or stay? Enter H or S");
 			String hitOrStand = sc.nextLine();
 			if (hitOrStand.equals("S")) {
@@ -62,7 +62,7 @@ public class BlackjackApp {
 	}
 
 	private void dealerTurn() {
-		System.out.println("Dealer shows: " + dealer.getHandValue() + dealer.getHand());
+//		System.out.println("Dealer shows: " + dealer.getHandValue() + dealer.getHand());
 		while (dealer.getHandValue() < 17) {
 			dealer.addCard(deck.dealCard());
 			System.out.println("Dealer Hits!");

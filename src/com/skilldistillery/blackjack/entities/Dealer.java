@@ -17,7 +17,7 @@ public class Dealer extends Player {
 	public void showOneCard() {
 		setShowCard(true);
 		Card firstCard = getHand().get(0);
-		System.out.println(firstCard);
+		System.out.println("Dealer shows: " + firstCard);
 
 	}
 
