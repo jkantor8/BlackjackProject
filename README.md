@@ -10,6 +10,13 @@
 
 # Lessons Learned
 
-	In this project, I learned about using object-oriented programming concepts to implement a simple version of the game of Blackjack. I also gained experience in implementing basic decision making in a program using if-else statements and other types of loops. Further, I utilized ArrayLists to effectively manage and manipulate multiple objects of the same class, which helped me understand the power and versatility of this data structure. Overall, this project reinforced my understanding of these programming concepts and allowed me to apply them in a practical and entertaining way.
+	In this project, I learned about using object-oriented programming
+	 concepts to implement a simple version of the game of Blackjack. I also 
+	 gained experience in implementing basic decision making in a program 
+	 using if-else statements and other types of loops. Further, I utilized
+	  ArrayLists to effectively manage and manipulate multiple objects of the
+	   same class, which helped me understand the power and versatility of this data structure. Overall, this project reinforced my understanding of these
+	    programming concepts and allowed me to apply them in a practical and
+	     entertaining way.
 
 
