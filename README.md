@@ -2,7 +2,7 @@
 
 # Description
 
-	' This is a basic Blackjack program that allows a single player to play against a dealer. The game is able to create a deck, shuffle the cards, then deal two cards to each player, with only one of the dealer card's showing. The player can hit H or S to hit or stay as long as they have not exceeded 21. Once they have stayed or busted, the dealer's other card is shown and cards are added to their hand until they bust or are at 17 or greater.'
+	This is a basic Blackjack program that allows a single player to play against a dealer. The game is able to create a deck, shuffle the cards, then deal two cards to each player, with only one of the dealer card's showing. The player can hit H or S to hit or stay as long as they have not exceeded 21. Once they have stayed or busted, the dealer's other card is shown and cards are added to their hand until they bust or are at 17 or greater.
 
 # Technologies Used
 
